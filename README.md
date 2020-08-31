@@ -1,2 +1,2 @@
-# Pratica01--Enumeracao-e-Composi-o
+# Pratica01--Enumeracao-e-Composicao
 Exercicio de Enumeração e Composição JAVA POO
